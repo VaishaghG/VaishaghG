@@ -7,7 +7,7 @@
 🎨 I enjoy Videography and Editing.<br/>
 📚 Curious about UI, apps, and creative tech.<br/>
 🌱 Always learning — coding, designing, and growing!<br/>
-📷 See my Editing  on Instagram: [SanpSymphony.jpg](https://www.instagram.com/vaish.aep?igsi=dWc4ODdudWxkeTM3)<br/>
+📷 See my Editing  on Instagram: [vaish.aep](https://www.instagram.com/vaish.aep?igsi=dWc4ODdudWxkeTM3)<br/>
 
 
 
