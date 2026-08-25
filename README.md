@@ -1,13 +1,13 @@
-👋 Hi there! I’m Habel 
+👋 Hi there! I’m Vaishagh
 
 *A passionate MCA student diving deep into the world of software development.*
 
 
 💻 I work with Android Studio and Firebase, and I’m passionate about learning and exploring software engineering.<br/>
-🎨 I enjoy Photography, Videography, Editing, Canva design, and making posters.<br/>
+🎨 I enjoy Videography and Editing.<br/>
 📚 Curious about UI, apps, and creative tech.<br/>
 🌱 Always learning — coding, designing, and growing!<br/>
-📷 See my photography on Instagram: [SanpSymphony.jpg](https://www.instagram.com/snapsymphony.jpg/)<br/>
+📷 See my Editing  on Instagram: [SanpSymphony.jpg](https://www.instagram.com/vaish.aep?igsi=dWc4ODdudWxkeTM3)<br/>
 
 
 
