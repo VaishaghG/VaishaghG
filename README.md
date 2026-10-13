@@ -76,15 +76,27 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabelJacob0&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HabelJacob0&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VaishaghG&show_icons=true&theme=merko&hide_border=true"
+    alt="VaishaghG GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=VaishaghG&theme=merko&hide_border=true"
+    alt="VaishaghG GitHub Streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabelJacob0&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishaghG&layout=compact&theme=merko&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
 </p>
 
 ---
@@ -92,23 +104,19 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
 ## ✍️ Random Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HabelJacob0&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random Developer Quote"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HabelJacob0&icon=0&color=0" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <i>💡 Learning something new every day. Building the future, one project at a time.</i>
+  <a href="https://github.com/VaishaghG">
+    <img
+      src="https://img.shields.io/badge/GitHub-VaishaghG-181717?style=for-the-badge&logo=github"
+      alt="Visit my GitHub profile"
+    />
+  </a>
 </p>
