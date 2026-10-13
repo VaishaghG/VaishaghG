@@ -53,8 +53,6 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
 
 ### 🎨 Design & Video Editing
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
@@ -65,11 +63,9 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
 <p align="left">
   <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games"/>
   <img src="https://img.shields.io/badge/EA-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA"/>
-  <img src="https://img.shields.io/badge/Battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net"/>
   <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
   <img src="https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
   <img src="https://img.shields.io/badge/Riot%20Games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"/>
-  <img src="https://img.shields.io/badge/Square%20Enix-%23ED1C24.svg?style=for-the-badge&logo=squareenix&logoColor=white" alt="Square Enix"/>
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   <img src="https://img.shields.io/badge/Ubisoft-%23000000.svg?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
