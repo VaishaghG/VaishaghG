@@ -21,8 +21,8 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
   </a>
   <a href="mailto:vaisaghnathan.g@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Me"
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
     />
   </a>
 </p>
