@@ -81,12 +81,12 @@ I'm a passionate MCA student exploring the world of software development, UI/UX 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=VaishaghG&show_icons=true&theme=merko&hide_border=true"
-    alt="Vaishagh GitHub Statistics"
+    alt="Vaishagh's GitHub Statistics"
     height="180"
   />
   <img
     src="https://streak-stats.demolab.com/?user=VaishaghG&theme=merko&hide_border=true"
-    alt="Vaishagh GitHub Streak"
+    alt="Vaishagh's GitHub Streak"
     height="180"
   />
 </p>
